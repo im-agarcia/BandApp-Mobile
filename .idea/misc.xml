@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BandApp/app/src/main/res/drawable/google.xml" value="0.22135416666666666" />
+        <entry key="..\:/BandApp/app/src/main/res/drawable/ic_bg.xml" value="0.3828125" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/activity_main.xml" value="0.26132246376811596" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/activity_menu.xml" value="0.26132246376811596" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/activity_splash.xml" value="0.26132246376811596" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/buddiw_city_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/city_buddie_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_booking.xml" value="0.20520833333333333" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_buddies.xml" value="0.2015625" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_check_email.xml" value="0.36666666666666664" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_create_user.xml" value="0.26132246376811596" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_delete_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_login.xml" value="0.26132246376811596" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_password_modification.xml" value="0.36666666666666664" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_password_reset.xml" value="0.36666666666666664" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_search_buddies.xml" value="0.18" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/fragment_user_delete.xml" value="0.2015625" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/BandApp/app/src/main/res/layout/nav_header.xml" value="0.20520833333333333" />
+        <entry key="..\:/BandApp/app/src/main/res/menu/nav_menu.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

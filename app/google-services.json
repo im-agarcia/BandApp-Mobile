@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486030626694",
+    "project_id": "bandapp-c33b6",
+    "storage_bucket": "bandapp-c33b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486030626694:android:3ea432d1bd8688371ba607",
+        "android_client_info": {
+          "package_name": "com.example.bandapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486030626694-69i7hlargbtq63lsrd9f0eqmlv26vs5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3U_rObU9sW8j8Om2zuQCubppGGLRihE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486030626694-69i7hlargbtq63lsrd9f0eqmlv26vs5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

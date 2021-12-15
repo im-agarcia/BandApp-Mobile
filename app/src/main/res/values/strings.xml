@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">BandApp</string>
+
+    <!-- Titles -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_whit_google">Sign In With Google</string>
+    <string name="band_app_sign_in">Log In</string>
+    <string name="forgot_your_password">Olvidaste tu contraseña?</string>
+    <string name="dont_have_account">Aún sin cuenta?</string>
+
+    <!-- Drawer -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Basics -->
+    <string name="login">Log In</string>
+    <string name="user">User</string>
+    <string name="type_email">Type your e-mail</string>
+    <string name="recover_password">Recover password</string>
+    <string name="repeat_password">Repetí la contraseña</string>
+    <string name="create_account">Creala ahora!</string>
+    <string name="lesta_play">Let´s play!</string>
+    <string name="lastname">Lastname</string>
+    <string name="bandapp">BandApp®</string>
+    <string name="group_name">Group Name</string>
+    <string name="wrong_email">This is not an email address</string>
+    <string name="update_profile">Guardar</string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="title_check_email">Verificacion de Email</string>
+    <string name="subtitle_check_email">Para completar tu registro. ¡Por favor! verifica tu correo y después hace clic en continuar.</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="title_account_recovery">Recuperación de la cuenta</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que podamos enviarte un correo con los pasos para cambiar tu contraseña.</string>
+    <string name="recovery_account">Enviar</string>
+    <string name="title_update_password">Cambio de contraseña</string>
+    <string name="subtitle_update_password">Por motivos de seguridad para cambiar tu contraseña, primero tenes que ingresar tu contraseña actual.</string>
+    <string name="title_delete_account">Eliminar cuenta</string>
+    <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="delete">Eliminar</string>
+    <string name="user_name">User Default</string>
+
+
+    <!-- dummy -->
+    <string name="maria">#Maria</string>
+
+    <!-- Ham -->
+    <string name="friends">Friends</string>
+    <string name="booking">Bookings</string>
+    <string name="groups">Groups</string>
+
+
+    <!-- My Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="email">E-mail</string>
+    <string name="bio">Bio</string>
+    <string name="instruments">Instruments</string>
+    <string name="password">Password</string>
+
+    <!-- Bookings -->
+    <string name="upcoming_reunions">Upcoming reunions</string>
+
+
+    <!-- Search Buddies -->
+    <string name="search_buddies">Search Buddies</string>
+    <string name="my_location">My location</string>
+    <string name="type_city">Type a city</string>
+    <string name="filter_by_instrument">Filter by Instrument</string>
+
+
+    <!-- Search Rooms -->
+    <string name="search_rooms">Search Rooms</string>
+
+
+    <!-- Instruments -->
+    <string name="guitar">Guitar</string>
+    <string name="bass_guitar">Bass Guitar</string>
+    <string name="drums">Drums</string>
+    <string name="piano">Piano</string>
+    <string name="voice">Voice</string>
+    <string name="saxophone">Saxo</string>
+
+
+    <!-- Friends -->
+    <string name="chat">Chat</string>
+    <string name="add_to_group">Add to Group</string>
+</resources>

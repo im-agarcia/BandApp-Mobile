@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/profile"
+            android:title="@string/my_profile"
+            android:icon="@drawable/ic_outline_info_24"
+            />
+        <item
+            android:id="@+id/buddies"
+            android:title="Buddies"
+            android:icon="@drawable/ic_outline_person_24"
+            />
+        <item
+            android:id="@+id/booking"
+            android:title="@string/booking"
+            android:icon="@drawable/ic_outline_bookmark_add_24"
+            />
+    </group>
+
+
+    <item
+        android:title="Let´s search!"
+        >
+        <menu>
+            <group
+                android:checkableBehavior="single"
+                >
+                <item
+                    android:id="@+id/searchBuddies"
+                    android:title="@string/search_buddies"
+                    android:icon="@drawable/ic_baseline_person_search_24"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <group
+            android:checkableBehavior="single"
+                >
+                <item
+                    android:id="@+id/changePassword"
+                    android:title="Cambiar contraseña"
+                    android:icon="@drawable/ic_outline_change_circle_24"
+                    />
+                <item
+                    android:id="@+id/deleteUser"
+                    android:title="Eliminar Cuenta"
+                    android:icon="@drawable/ic_baseline_delete_outline_24"
+                    />
+                <item
+                    android:id="@+id/exit"
+                    android:title="Exit"
+                    android:icon="@drawable/ic_sign_out"
+                    />
+            </group>
+        </menu>
+    </item>
+
+
+
+
+</menu>
